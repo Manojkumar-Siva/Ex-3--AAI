@@ -102,6 +102,7 @@ print(query_result)
 
 ## Output:
 ![](./ex3ai.png)
+![](./ex3ai2.png)
 
 ## Result:
 Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
