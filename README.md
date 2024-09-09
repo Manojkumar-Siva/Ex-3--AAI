@@ -101,6 +101,7 @@ print(query_result)
 
 
 ## Output:
+![](./ex3ai3.png)
 ![](./ex3ai.png)
 ![](./ex3ai2.png)
 
